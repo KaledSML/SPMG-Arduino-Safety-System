@@ -96,4 +96,3 @@ En regiones con climas extremos, donde el uso de calefacción a combustión es u
 
 > **"La ingeniería no solo resuelve problemas, protege lo que más importa."** ✨
 
-<p align="right">(<a href="#top">Volver al inicio</a>)</p>
